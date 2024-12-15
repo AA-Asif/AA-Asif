@@ -1,10 +1,10 @@
-https://media.licdn.com/dms/image/v2/D5616AQHNA6VqnmE51A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734268859556?e=1740009600&v=beta&t=UyIu3QhUJe8W_-Yb62jpHjyC3JvZ-pUh2njB6QWmCQ0
-#### Web Developer & Programmer
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHNA6VqnmE51A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734268859556?e=1740009600&v=beta&t=UyIu3QhUJe8W_-Yb62jpHjyC3JvZ-pUh2njB6QWmCQ0">
+#### Cyber Security Enthusiast & Programmer
 
 
 I am a highly motivated and diligent individual with a Diploma in Computer Engineering from Bangladesh Rajshahi Polytechnic Institute, seeking a challenging and rewarding career opportunity to apply my skills and knowledge in a dynamic work environment. With a strong foundation in Engineering, coupled with hands-on experience gained through internships and practical projects, I am eager to contribute to the success of a forward-thinking organization.
 
-Skills:  REACT / JS / HTML / CSS/Python/Cyber Security
+
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript/Cyber Security 
