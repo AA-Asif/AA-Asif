@@ -3,7 +3,7 @@
 
 
 <p>
- I am a highly motivated and diligent individual with a Diploma in Computer Engineering from Bangladesh Rajshahi Polytechnic Institute, seeking a challenging and rewarding career opportunity to apply my skills and knowledge in a dynamic work environment. With a strong foundation in Engineering, coupled with hands-on experience gained through internships and practical projects, I am eager to contribute to the success of a forward-thinking organization.
+Hi there! This is Asif. Currently, I am an undergraduate student of Diploma in Computer Science Engineering from Bangladesh Rajshahi Polytechnic Institute . I am very much enthusiastic about Cyber Security and Ethical Hacking . Also I enthusiastically exploring new technologies eager to do.
 
 </p>
 
