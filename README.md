@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHNA6VqnmE51A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734268859556?e=1740009600&v=beta&t=UyIu3QhUJe8W_-Yb62jpHjyC3JvZ-pUh2njB6QWmCQ0">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHIpL6aJpQ0lw/profile-displaybackgroundimage-shrink_350_1400/B56ZV6tjGIHoAY-/0/1741520516223?e=1747267200&v=beta&t=SYAG-Fx-w_RAdVaGW46AwbW3zxY8L3Ry_QuzflswaAw">
 <h1>Cyber Security Enthusiast & Programmer</h1> 
 
 
