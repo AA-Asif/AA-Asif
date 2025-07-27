@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHIpL6aJpQ0lw/profile-displaybackgroundimage-shrink_350_1400/B56ZV6tjGIHoAY-/0/1741520516223?e=1747267200&v=beta&t=SYAG-Fx-w_RAdVaGW46AwbW3zxY8L3Ry_QuzflswaAw">
-<h1>Cyber Security Student || CTF Player || Programmer</h1> 
+<h1>Cyber Security Student || CTF Player || Programmer || Penetration Tester || Bug Hunter</h1> 
 
 
 <p>
